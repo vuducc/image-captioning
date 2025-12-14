@@ -1,0 +1,8 @@
+# Ignore unnecessary files
+frontend/node_modules
+venv/
+__pycache__/
+.env
+frontend/node_modules
+venv
+.vscode
