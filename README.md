@@ -135,17 +135,3 @@ Bạn có thể dùng file `.env` để cấu hình biến môi trường.
 - [ ] Chia sẻ caption lên mạng xã hội
 
 ---
-
-## 🤝 Đóng góp
-
-Mọi đóng góp đều được hoan nghênh! Bạn có thể:
-
-- Tạo issue mới nếu có lỗi
-- Gửi Pull Request với tính năng mới
-- Chia sẻ để dự án được biết đến rộng rãi hơn
-
----
-
-## 📬 Liên hệ
-Email: [visualcaption@gmail.com]  
-GitHub: [https://github.com/Truongjava/visual_caption_2.git](https://github.com/Truongjava/visual_caption_2.git)
